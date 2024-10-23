@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // This File Not Connected with Database
-public class atmSystemComplete {
+public class atmSystemWithoutDatabase {
     static int pin = 1234;
     static double userBalance = 10000;
     static double atmBalance = 5000;  
